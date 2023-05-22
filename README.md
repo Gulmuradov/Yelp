@@ -12,12 +12,12 @@ Welcome to my project. It is My Yelp project.
 ## Authors
 
 Github
-<!-- - [@Soburjon19](https://github.com/Soburjon19/) -->
+- [@Gulmuradov](https://github.com/Gulmuradov/)
 
 ## Deployment
 
 ```
-  https://master.dl0wpc1vkqvun.amplifyapp.com/
+  https://master.d1cqlh28j47mgu.amplifyapp.com/
 ```
 
 
